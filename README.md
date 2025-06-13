@@ -8,3 +8,7 @@ This project focuses on detecting Distributed Denial of Service (DDoS) attacks u
 - 🤖 ML Algorithm: Random Forest Classifier (can be extended to others)
 - 🧠 Tasks: Feature selection, model training, evaluation, and saving the trained model
 - 📈 Evaluation: Confusion matrix, classification report, and accuracy
+
+Sample Output
+Accuracy: ~98% (may vary by dataset)
+Confusion Matrix and Classification Report displayed in terminal
