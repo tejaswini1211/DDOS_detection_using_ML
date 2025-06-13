@@ -1,6 +1,10 @@
+# DDoS Detection Using Machine Learning 🚨💻
 
-The safety of cyber world is equally made important in modern times, especially of DoS and DDoS attacks. These attacks are very severe because they can cripple online services such as websites and applications by flooding them with considerably huge traffic, making it impossible for genuine users to access them. It does crank up customer dissatisfaction, as well as lead to enormous revenue losses for companies.
+This project focuses on detecting Distributed Denial of Service (DDoS) attacks using Machine Learning algorithms. It aims to classify network traffic as either **benign** or **DDoS attack** based on extracted network features. The model can be used in real-time monitoring systems to enhance cybersecurity.
 
-To that end, apaddos dataset that contains insight into DDoS attack has always been a good fight and keeps fighting. This dataset is information-rich in normal and malicious network traffic. This includes IP addresses, TCP port numbers, and packets counting because they are important for creating effective detection systems.
+## 🔍 Project Highlights
 
-From this data, machine learning techniques shall be adopted to develop tools that can accurately classify legitimate traffic and attack traffic. Such research goes a long way toward keeping effective cybersecurity while ensuring that critical online services are functioning well and secure enough for businesses as well as their customers from disruption threats.
+- 📊 Dataset: Preprocessed dataset of network traffic with labeled attacks
+- 🤖 ML Algorithm: Random Forest Classifier (can be extended to others)
+- 🧠 Tasks: Feature selection, model training, evaluation, and saving the trained model
+- 📈 Evaluation: Confusion matrix, classification report, and accuracy
